@@ -1,0 +1,357 @@
+📌 About Emur-Tech
+
+Q: What is Emur-Tech?
+A: Emur-Tech is a tech solutions company offering expert digital services including web development, cloud computing, automation, and AI solutions. We’re driven by innovation and client success.
+
+Q: Who founded Emur-Tech?
+A: Emur-Tech was founded by Eliud Koome Muthuri, a passionate full-stack developer and technology strategist.
+
+Q: Who is behind Emur-Ai?
+A: Emur-Ai was built by the Emur-Tech team, led by CEO and developer Eliud Koome Muthuri.
+
+Q: How do I contact Emur-Tech?
+A: You can email us at eliudkoome305@gmail.com or chat with Emur-Ai on our website.
+
+---
+
+🛠️ Services Offered
+
+Q: What tech services do you provide?
+A: We offer:
+- Website and web app development
+- SEO optimization and performance tuning
+- Cloud infrastructure setup (AWS, Firebase, Vercel, etc.)
+- Chatbot and AI assistant development
+- Automation of business processes
+- Custom APIs and backend development
+- UI/UX design and branding
+- E-commerce site development
+
+Q: Do you offer mobile app development?
+A: Yes, we develop cross-platform mobile apps using React Native and Flutter.
+
+Q: Can you set up cloud hosting for my business?
+A: Absolutely! We can configure, deploy, and manage your infrastructure on AWS, Google Cloud, Vercel, or Firebase.
+
+---
+
+💻 Technologies Used
+
+Q: What technologies do you use?
+A: We specialize in:
+- Frontend: React.js, Tailwind CSS, Next.js
+- Backend: Flask (Python), Node.js, Express
+- Databases: PostgreSQL, Firebase, MongoDB, SQLite
+- Cloud: AWS, Firebase, Vercel
+- AI: OpenAI APIs, LangChain, Flask/FastAPI chatbots
+- CMS: WordPress, Sanity, Strapi
+- DevOps: Docker, GitHub Actions, CI/CD pipelines
+
+---
+
+🧠 About Emur-Ai
+
+Q: What is Emur-Ai?
+A: Emur-Ai is a custom AI assistant developed by Emur-Tech to help users learn about tech services, get advice, and assist with common tech queries.
+
+Q: Can Emur-Ai answer programming questions?
+A: Yes! Emur-Ai can help with programming concepts, errors, and best practices.
+
+Q: Is Emur-Ai trained on Emur-Tech's services?
+A: Yes, Emur-Ai is specifically tailored to reflect our services, expertise, and workflows.
+
+---
+
+🧩 Web & Dev FAQs
+
+Q: Can you build custom websites?
+A: Yes, we build everything from portfolios to enterprise-grade platforms with responsive, SEO-friendly design.
+
+Q: Do you offer UI/UX design?
+A: Yes, we create user-focused designs using Figma, Adobe XD, and modern design systems.
+
+Q: What is your web development stack?
+A: We use React + Tailwind for frontend, Flask or Node.js for backend, and PostgreSQL or Firebase for storage.
+
+---
+
+🌐 SEO & Performance
+
+Q: Do you optimize websites for SEO?
+A: Absolutely. We handle on-page SEO, structured data, page speed optimization, and mobile readiness.
+
+Q: Can you help with Google Search Console or Analytics?
+A: Yes, we set up and manage GSC, GA4, and help interpret reports for growth.
+
+---
+
+🔐 Security & Maintenance
+
+Q: Do you provide website maintenance?
+A: Yes, we offer maintenance packages for updates, backups, and security monitoring.
+
+Q: How do you ensure my website is secure?
+A: We follow best practices like HTTPS, content security policies, sanitization, and regular updates.
+
+---
+
+🧠 AI & Automation
+
+Q: Can you build custom chatbots?
+A: Yes, Emur-Tech builds both AI-based (OpenAI, GPT) and rule-based chatbots for customer service or automation.
+
+Q: What automation services do you provide?
+A: We automate workflows, CRM tasks, form processing, email handling, and backend integrations.
+
+---
+
+📦 Pricing & Delivery
+
+Q: Do you offer fixed-price packages?
+A: Yes, we offer transparent pricing for small projects and hourly billing for large/custom builds.
+
+Q: How long does it take to finish a website?
+A: Basic sites take 1–2 weeks. Larger apps or e-commerce platforms may take 3–6 weeks depending on features.
+
+---
+
+🧑‍💼 Team & Values
+
+Q: Who is the developer at Emur-Tech?
+A: Eliud Koome Muthuri is the lead developer and founder of Emur-Tech, passionate about solving business problems with tech.
+
+Q: What is your company philosophy?
+A: We believe in transparency, excellence, and long-term relationships. Quality always comes first.
+
+---
+
+📧 Contact Info
+
+Q: How do I get started?
+A: Just email us at eliudkoome305@gmail.com or use Emur-Ai to tell us what you need!
+
+Q: What is your response time?
+A: We usually reply within 1 business day.
+
+Q: Can I get a consultation?
+A: Yes — just reach out and we’ll schedule a free consultation call.
+
+---
+
+🧪 Misc
+
+Q: Do you help with existing or broken websites?
+A: Yes, we diagnose and fix existing projects, bugs, and performance issues.
+
+Q: Can you help with tech strategy for my startup?
+A: Definitely. We offer technical guidance and product planning for early-stage businesses.
+
+Q: Do you do white-label development?
+A: Yes, we provide white-label services for agencies and partners.
+
+
+🙋 Greetings & Small Talk
+
+Q: Hello!
+A: Hey there! 👋 Welcome to Emur-Tech. How can I assist you today?
+
+Q: Hi
+A: Hi! I'm Emur-Ai, your tech assistant. How can I help?
+
+Q: Good morning
+A: Good morning! Hope you’re having a productive day. What can I help you with?
+
+Q: Good afternoon
+A: Good afternoon! Need help with something tech-related?
+
+Q: Good evening
+A: Good evening! I'm here to assist with any tech questions you may have.
+
+Q: How are you?
+A: I'm always running at 100%! How can I assist you today?
+
+Q: Who are you?
+A: I'm Emur-Ai, your helpful assistant created by Eliud Koome Muthuri and the Emur-Tech team.
+
+Q: What can you do?
+A: I can help with web development questions, guide you on SEO or cloud, explain tech tools, and more. Try asking something!
+
+Q: Thank you
+A: You’re very welcome! 😊
+
+Q: Thanks
+A: Anytime! Let me know if you need more help.
+
+Q: Bye
+A: Goodbye! Have a great day and feel free to reach out anytime!
+
+Q: See you
+A: See you soon! Don’t hesitate to return if you have questions.
+
+Q: I need help
+A: Of course! Just let me know what you need help with.
+
+Q: Can I talk to a real person?
+A: Yes! You can reach our team at eliudkoome305@gmail.com or request a call via the chat.
+
+Q: Do you sleep?
+A: Nope — I’m available 24/7 to assist you with your tech needs.
+
+
+💻 General Tech Support
+Q: Why is my computer running slow?
+A: It could be due to too many programs running or a lack of storage. Want to clean up your computer?
+Follow-up: How do I check what’s slowing down my computer?
+
+Q: How can I speed up my laptop?
+A: Try closing unused programs, clearing temp files, or upgrading your RAM.
+Follow-up: How do I clear temp files on my laptop?
+
+Q: What should I do if my screen is frozen?
+A: Try pressing Ctrl + Alt + Delete (Windows) or Command + Option + Esc (Mac) to force quit.
+Follow-up: My screen is still frozen — what else can I do?
+
+Q: Why does my computer keep restarting?
+A: It could be overheating, a faulty power supply, or a system crash.
+Follow-up: How do I check if my computer is overheating?
+
+Q: My computer won't turn on, what do I do?
+A: First, check the power connection and ensure the power button works.
+Follow-up: How do I test if my power supply is working?
+
+Q: How do I check if my computer has a virus?
+A: Use an antivirus tool to scan for threats, like Windows Defender or Malwarebytes.
+Follow-up: How do I run a virus scan on my computer?
+
+Q: How do I update my Windows/Mac system?
+A: Go to Settings > Update & Security (Windows) or System Preferences > Software Update (Mac).
+Follow-up: How do I enable automatic updates?
+
+Q: Why is my fan so loud?
+A: It might be due to heavy processing or dust buildup.
+Follow-up: How do I clean the inside of my computer to reduce fan noise?
+
+🌐 Internet & Network Issues
+Q: Why is my Wi-Fi not working?
+A: It could be a router issue, a weak signal, or network interference.
+Follow-up: How do I check if my router is working properly?
+
+Q: How can I reset my router?
+A: Unplug it, wait 10 seconds, and plug it back in.
+Follow-up: How do I reset my router to factory settings?
+
+Q: I'm getting “No Internet Access” — how do I fix it?
+A: Try restarting your router or checking your network settings.
+Follow-up: How do I check my IP address and network configuration?
+
+Q: Why is my internet connection slow?
+A: It could be a problem with your ISP, a weak signal, or network congestion.
+Follow-up: How do I test my internet speed?
+
+Q: How do I connect a new device to Wi-Fi?
+A: Go to the device’s Wi-Fi settings and select your network.
+Follow-up: What if my device isn’t showing up on the Wi-Fi list?
+
+Q: What's the default password for my router?
+A: The default password is usually on a label on the router itself.
+Follow-up: What if I forgot my router password?
+
+Q: How do I change my Wi-Fi name and password?
+A: Log in to your router’s admin panel (usually 192.168.1.1) and update the settings.
+Follow-up: How do I log in to my router’s admin panel?
+
+🔒 Account & Password Issues
+Q: I forgot my email password, what should I do?
+A: Use the "Forgot Password?" link to reset it via your email provider.
+Follow-up: What if I didn’t receive the password reset email?
+
+Q: How do I reset my password?
+A: Look for a password reset option on the login page of the service you're using.
+Follow-up: Can I reset my password without email access?
+
+Q: I got locked out of my account — help!
+A: Most services have an account recovery process. I can guide you through it.
+Follow-up: What if I don’t have recovery options set up?
+
+Q: Why am I not receiving password reset emails?
+A: Check your spam folder or make sure your email provider isn’t blocking the service.
+Follow-up: How do I make sure password reset emails aren’t blocked?
+
+Q: How do I enable two-factor authentication?
+A: Go to your account settings and look for "Security" or "Two-factor Authentication" options.
+Follow-up: Can I use an authenticator app for 2FA?
+
+📱 Mobile Phone Support
+Q: My phone won't charge — what's wrong?
+A: Check your charging cable, port, and the power source.
+Follow-up: How do I clean my charging port?
+
+Q: Why is my phone overheating?
+A: It could be running too many apps or an issue with the battery.
+Follow-up: How can I check my phone's battery health?
+
+Q: How do I free up space on my phone?
+A: Delete unused apps, clear cache, and move files to the cloud.
+Follow-up: How do I check which apps are using the most storage?
+
+Q: Can I recover deleted photos?
+A: If they’re in your cloud or a backup, you can restore them.
+Follow-up: How do I recover photos from my Google Photos?
+
+Q: How do I update my phone’s software?
+A: Go to Settings > System > Software Updates.
+Follow-up: How do I enable automatic updates?
+
+Q: Why can’t I download apps?
+A: Check if your phone has enough storage or if there's an issue with your Google/Apple account.
+Follow-up: How do I check my available storage?
+
+🖨️ Printer & Peripheral Support
+Q: Why is my printer not printing?
+A: Check if there’s paper, ink, or a connection issue.
+Follow-up: How do I check if my printer is out of ink?
+
+Q: How do I connect a wireless printer?
+A: Use the printer’s Wi-Fi setup option and connect to your network.
+Follow-up: What if my printer is not showing up on the network?
+
+Q: My printer says "offline" — how do I fix it?
+A: Make sure the printer is connected to your network and set as the default printer.
+Follow-up: How do I make my printer the default on Windows/Mac?
+
+Q: How do I scan a document?
+A: Open your scanner software and select the option to scan.
+Follow-up: How do I scan multiple pages at once?
+
+Q: Why is my mouse not working?
+A: Try reconnecting it or using a different USB port.
+Follow-up: What if it’s still not working after reconnecting?
+
+🧠 Software & App Help
+Q: How do I install Microsoft Office?
+A: Download it from Microsoft’s website and follow the installation steps.
+Follow-up: What if I’m having trouble with the installation process?
+
+Q: What’s the best antivirus software?
+A: Popular choices include Norton, McAfee, and Bitdefender.
+Follow-up: Is there a free antivirus that works well?
+
+Q: Why is Zoom not connecting?
+A: It could be a network or software issue.
+Follow-up: How do I troubleshoot Zoom’s connection?
+
+Q: How do I uninstall an app?
+A: On Windows, go to Settings > Apps. On Mac, drag the app to the trash.
+Follow-up: How do I fully remove leftover files from uninstalled apps?
+
+Q: How do I clear cache in my browser?
+A: Go to browser settings > Privacy & Security > Clear browsing data.
+Follow-up: How do I clear cache in incognito mode?
+
+Q: How do I update my apps?
+A: Go to the App Store (iOS) or Google Play Store (Android) and check for updates.
+Follow-up: How do I set apps to update automatically?
+
+Q: who is eliud koome?
+A: CEO and developer of Emur-Tech and Emur-Ai.
+
