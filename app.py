@@ -36,7 +36,7 @@ faq_data = load_knowledge_base()
 app = Flask(__name__)
 
 # Enable CORS for the app
-CORS(app, origins=['https://solomonbeautyservices.vercel.app', 'http://localhost:3000'])
+CORS(app, origins=['https://finishers.vercel.app/', 'http://localhost:3000'])
 
 # Upload folder config
 UPLOAD_FOLDER = 'uploads/profile_pictures'
