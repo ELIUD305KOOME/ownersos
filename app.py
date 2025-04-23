@@ -91,19 +91,22 @@ def hello():
 @app.route('/api/news')
 def get_news():
     try:
-        url = 'https://newsapi.org/v2/top-headlines'
-        params = {
-            'country': 'us',
-            'category': 'technology',
-            'apiKey': os.getenv('NEWS_API_KEY')
+        data = {
+            'articles': [
+                {
+                    'title': 'AI revolution is here',
+                    'description': 'AI is taking over the world.',
+                    'url': 'https://techcrunch.com/ai-article',
+                    'videoUrl': 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+                },
+                {
+                    'title': 'New VR headset released',
+                    'description': 'The latest VR tech has arrived.',
+                    'url': 'https://theverge.com/vr-headset',
+                    'videoUrl': 'https://youtu.be/ScMzIvxBSi4'
+                }
+            ]
         }
-        response = requests.get(url, params=params)
-        data = response.json()
-
-        # Injecting sample video URLs (mockup)
-        for i, article in enumerate(data.get('articles', [])):
-            article['videoUrl'] = f'https://www.w3schools.com/html/mov_bbb.mp4'
-
         return jsonify(data), 200
     except Exception as e:
         return jsonify({'error': str(e)}), 500
