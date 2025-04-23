@@ -17,6 +17,7 @@ from resources.useradmin import mechanic_bpp
 import re
 from flask import Flask, request, jsonify
 from difflib import get_close_matches
+import requests
 
 # OpenAI Chatbot-related imports
 # from dotenv import load_dotenv
@@ -36,7 +37,8 @@ faq_data = load_knowledge_base()
 app = Flask(__name__)
 
 # Enable CORS for the app
-CORS(app, origins=['https://finishers.vercel.app/', 'http://localhost:3000'])
+CORS(app, origins=['https://finishers.vercel.app', 'http://localhost:3000'])
+
 
 # Upload folder config
 UPLOAD_FOLDER = 'uploads/profile_pictures'
@@ -84,6 +86,21 @@ def uploaded_file(filename):
 @app.route('/')
 def hello():
     return jsonify(message="Hello from Flask! Welcome to solo beauty services!")
+
+# News api
+@app.route('/api/news')
+def get_news():
+    try:
+        url = 'https://newsapi.org/v2/top-headlines'
+        params = {
+            'country': 'us',
+            'category': 'technology',
+            'apiKey': os.getenv('NEWS_API_KEY')
+        }
+        response = requests.get(url, params=params)
+        return jsonify(response.json()), response.status_code
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
 
 
 # 🚀 Chatbot Endpoint (OpenAI)
