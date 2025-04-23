@@ -98,7 +98,13 @@ def get_news():
             'apiKey': os.getenv('NEWS_API_KEY')
         }
         response = requests.get(url, params=params)
-        return jsonify(response.json()), response.status_code
+        data = response.json()
+
+        # Injecting sample video URLs (mockup)
+        for i, article in enumerate(data.get('articles', [])):
+            article['videoUrl'] = f'https://www.w3schools.com/html/mov_bbb.mp4'
+
+        return jsonify(data), 200
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
