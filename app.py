@@ -96,50 +96,50 @@ def get_news():
         {
             'title': 'AI revolution is here',
             'description': 'AI is taking over the world.',
-            'url': 'https://techcrunch.com/ai-article',
-            'videoUrl': 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+            'url': 'https://www.youtube.com/watch?v=brQLpTnDwyg',
+            'videoUrl': 'https://www.youtube.com/watch?v=brQLpTnDwyg'
         },
         {
             'title': 'New VR headset released',
             'description': 'The latest VR tech has arrived.',
-            'url': 'https://theverge.com/vr-headset',
-            'videoUrl': 'https://youtu.be/ScMzIvxBSi4'
+            'url': 'https://www.youtube.com/watch?v=uBB9k5sK8KE',
+            'videoUrl': 'https://www.youtube.com/watch?v=uBB9k5sK8KE'
         },
         {
             'title': 'Quantum computing breakthrough',
             'description': 'A new quantum processor is now faster than classical supercomputers.',
-            'url': 'https://www.wired.com/story/quantum-processor-breakthrough/',
-            'videoUrl': 'https://www.youtube.com/watch?v=aNgnWcN-gN8'
+            'url': 'https://www.youtube.com/watch?v=B3U1NDUiwSA',
+            'videoUrl': 'https://www.youtube.com/watch?v=B3U1NDUiwSA'
         },
         {
             'title': 'Apple unveils M4 chip',
             'description': 'Apple announces their next-generation chip for MacBooks.',
-            'url': 'https://www.macrumors.com/2025/04/22/apple-unveils-m4-chip/',
-            'videoUrl': 'https://www.youtube.com/watch?v=kVZUy7hvZXg'
+            'url': 'https://www.youtube.com/watch?v=VT5s_sPimhU',
+            'videoUrl': 'https://www.youtube.com/watch?v=VT5s_sPimhU'
         },
         {
             'title': 'Tesla launches humanoid robot',
             'description': 'Tesla introduces a home assistant robot powered by AI.',
-            'url': 'https://www.cnet.com/tech/tesla-bot-is-real/',
-            'videoUrl': 'https://www.youtube.com/watch?v=GxWjJZ0tx5E'
+            'url': 'https://www.youtube.com/watch?v=Mu-eK72ioDk',
+            'videoUrl': 'https://www.youtube.com/watch?v=Mu-eK72ioDk'
         },
         {
             'title': 'Google I/O 2025 Recap',
             'description': 'All the big announcements from Google I/O 2025 in one place.',
-            'url': 'https://9to5google.com/2025/04/20/google-io-2025-recap/',
-            'videoUrl': 'https://www.youtube.com/watch?v=Yxz_0U7rplY'
+            'url': 'https://www.youtube.com/watch?v=2OpHbyN4vEM',
+            'videoUrl': 'https://www.youtube.com/watch?v=2OpHbyN4vEM'
         },
         {
             'title': 'NVIDIA unveils RTX 5090',
             'description': 'Next-gen graphics card pushes the boundaries of gaming and AI.',
-            'url': 'https://www.tomshardware.com/news/nvidia-rtx-5090-announced',
-            'videoUrl': 'https://www.youtube.com/watch?v=LXb3EKWsInQ'
+            'url': 'https://www.youtube.com/watch?v=ceIvN7fcoo0',
+            'videoUrl': 'https://www.youtube.com/watch?v=ceIvN7fcoo0'
         },
         {
             'title': 'Microsoft launches Copilot+',
             'description': 'Microsoft expands its AI assistant features across all platforms.',
-            'url': 'https://blogs.microsoft.com/copilot-announcement/',
-            'videoUrl': 'https://www.youtube.com/watch?v=9Uv_qR3CZWQ'
+            'url': 'https://www.youtube.com/watch?v=dg2C2Sv4zig',
+            'videoUrl': 'https://www.youtube.com/watch?v=dg2C2Sv4zig'
         }
     ]
 }
